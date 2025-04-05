@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NguyenMinh205
-- 👀 I’m interested in Game, Football and intelligent person
+- 👀 I’m interested in Game, Football
 - 🌱 I’m currently learning Unity 2D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
