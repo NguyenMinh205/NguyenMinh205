@@ -1,6 +1,6 @@
 # Hi there 👋, tôi là Nguyễn Quang Minh
 
-### 🎮 Software Engineering Student | Aspiring Unity Game Developer
+### 🎮 Software Engineering Student | Unity Game Developer
 
 Chào mừng bạn đến với GitHub của tôi! Tôi có niềm đam mê mãnh liệt với việc phát triển game, đặc biệt là lập trình với **Unity** và **C#**. Tôi luôn không ngừng học hỏi, rèn luyện kỹ năng/kiến thức của bản thân và đang tìm kiếm cơ hội công việc trong vị trí Unity Developer.
 
