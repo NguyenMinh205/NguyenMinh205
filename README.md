@@ -14,7 +14,7 @@ Chào mừng bạn đến với GitHub của tôi! Tôi có niềm đam mê mãn
 ### 🚀 Các dự án nổi bật
 
 *   **[Traffic Jam Out](https://github.com/NguyenMinh205/Traffic_Jam_Out)**
-    *   *Thể loại:* 3D Puzzle.
+    *   *Thể loại:* 3D Casual Puzzle.
 *   **[Hero's Adventure](https://github.com/NguyenMinh205/Hero-Adventure)**
     *   *Thể loại:* Turn-based, RPG, Line-Matching.
 *   **[Offline Games](https://github.com/NguyenMinh205/Offline-Games)**
