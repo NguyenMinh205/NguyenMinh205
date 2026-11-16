@@ -13,15 +13,17 @@ Chào mừng bạn đến với GitHub của tôi! Tôi có niềm đam mê mãn
 
 ### 🚀 Các dự án nổi bật
 
-*   **[Tank Battle](https://github.com/NguyenMinh205/TankBattle)**
-    *   *Thể loại:* Top-Down 2D Shooter Survival.
-*   **[Offline Games](https://github.com/NguyenMinh205/Offline-Games)**
-    *   *Thể loại:* Casual, Puzzle.
+*   **[Traffic Jam Out](https://github.com/NguyenMinh205/Traffic_Jam_Out)**
+    *   *Thể loại:* 3D Puzzle.
 *   **[Hero's Adventure](https://github.com/NguyenMinh205/Hero-Adventure)**
     *   *Thể loại:* Turn-based, RPG, Line-Matching.
+*   **[Offline Games](https://github.com/NguyenMinh205/Offline-Games)**
+    *   *Thể loại:* Casual, Puzzle.
+*   **[Tank Battle](https://github.com/NguyenMinh205/TankBattle)**
+    *   *Thể loại:* Top-Down 2D Shooter Survival.
 *   **[J-JAM GAME HAUI 2025](https://github.com/NguyenMinh205/J-JAM-GAME-HAUI-2025)**
     *   *Sự kiện:* Game Jam.
-    *   *Điểm nhấn:* Hoàn thiện prototype game hoàn chỉnh với áp lực thời gian trong vòng 2 ngày.
+    *   *Nhiệm vụ cuộc thi:* Hoàn thiện prototype game hoàn chỉnh với áp lực thời gian trong vòng 2 ngày.
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=NguyenMinh205&show_icons=true&theme=radical)
